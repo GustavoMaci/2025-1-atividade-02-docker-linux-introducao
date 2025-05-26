@@ -4,6 +4,7 @@
 - **Disciplina**: Sistemas Operacionais (TADS/IFRN)  
 - **Professor**: Leonardo A. Minora  
 - **Aluno**: Gustavo Henrique da Cruz Maciel 
+- **Matrícula**: 20232014040003
 ---
 
 ## 1. Introdução
